@@ -77,7 +77,7 @@ execute the code there to test it
 
 ## Creating a Kubernetes cluster on AWS
 
-![alt text](https://github.com/pablonoras/clothes-recognition-kubernetes)
+![alt text](https://github.com/pablonoras/clothes-recognition-kubernetes/kubernetes-cluster)
 
 - We use EKS (elastic kubernetes service), also there is GKE from google and AKS from azure. 
 - We need to use 3 command-line tools: awscli (Manages AWS resources) , eksctl (Manages EKS clusters) , kubectl (Manages resources in a Kubernetes cluster)
